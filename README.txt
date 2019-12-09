@@ -21,6 +21,7 @@ Move the binary in to your PATH.
 	# sudo mv ./kubectl /usr/local/bin/kubectl
 
 Or 
+    ( Install using Homebrew )
 	(
 		 Run the kubectl installation command
 
