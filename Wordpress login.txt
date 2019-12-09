@@ -1,0 +1,13 @@
+
+
+Wordpress login
+
+id - admin 
+pass - password 
+
+
+Minikube login 
+
+id - docker
+pass - tcuser
+
