@@ -1,7 +1,11 @@
-secretGenerator:
-- name: mysql-pass
-  literals:
-  - password=password
+---
+apiVersion: v1
+kind: Secret
+metadata:
+  name: mysql-pass
+type: Opaque
+data:
+  password: password
 
 resources:
     - mysql-deployment.yaml
