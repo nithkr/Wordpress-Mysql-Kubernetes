@@ -6,7 +6,3 @@ metadata:
 type: Opaque
 data:
   password: password
-
-resources:
-    - mysql-deployment.yaml
-    - wordpress-deployment.yaml
